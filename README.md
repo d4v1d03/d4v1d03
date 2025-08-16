@@ -24,7 +24,6 @@
 ### 📈 GitHub Stats
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4v1d03&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d4v1d03&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=d4v1d03&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ---
